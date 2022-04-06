@@ -1,2 +1,2 @@
 # Scalaspark
-Practicing various scenarious found on internet 
+Practicing various scenarios found on internet 
